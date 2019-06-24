@@ -4,4 +4,4 @@ Classifying recipes based on ingredients into continental i.e, Italian, Chinese 
 
 Team Members :
 Pravallika Boppana - 2000117
-Priyanka M -2000183
+Priyanka Madas -2000183
